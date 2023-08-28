@@ -12,9 +12,13 @@ There are two versions of the Rev. 2 Chocopad PCB, so pay attention to which ver
 
 If you purchased the Chocopad Rev. 2 when it first came out, then you have the X1 version. The latest batch of PCBs is the X2 version, but they have not been released yet.
 
-## Parts Needed
+### Printing Tips
 
-You will need four 8mm or 9mm M2 screws to insert through the bottom plate upwards, all the way to the top shell, which you will screw into.
+For the top shell and middle layer, it is best to print them with the top face on the build plate. In this orientation, you may want to print the middle layer with supports, so the USB-C port area can be supported, but this is not required.
+
+### Parts Needed
+
+You will need four 8mm or 9mm M2 screws to insert through the bottom plate upwards, all the way to the top shell, which you will screw into. These screws will be made available at Keebio soon.
 
 ## License
 
